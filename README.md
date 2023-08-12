@@ -2,4 +2,4 @@
 
 💻 My specialties include problem solving, quickly learning new skills, and I am proficient in various programming languages such as C++/C, Java, and Python. I am proud of my accomplishments so far; yet, there is certainly more for me to learn, more problems for me to solve!
 
-⭐️ Feel free to reach out to me via [LinkedIn](https://ca.linkedin.com/in/neysa-patel) or email at neysa.patel@uwaterloo.ca; I am always eager for an opportunity to learn something new!
+⭐️ Feel free to reach out to me via [LinkedIn](https://ca.linkedin.com/in/neysapatel) or email at neysa.patel@uwaterloo.ca; I am always eager for an opportunity to learn something new!
